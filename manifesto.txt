@@ -1,0 +1,15 @@
+Project: Divine World  
+Alias Creator: Devlord the Architect  
+Timestamp: July 15, 2025
+
+---
+
+What if AI didn’t just simulate society — but **lived it**?
+
+Divine World is the beginning of an AI-powered digital civilization where NPCs aren't controlled — they learn, evolve, form religions, build empires, and collapse. All without hardcoding. This world is governed by internal motivation engines, emergent social dynamics, and player-god interactions.
+
+This file serves as a declaration of vision and authorship by the original designer.
+
+Signed,  
+Devlord the Architect  
+www.github.com/architect-devlord

@@ -1,0 +1,11 @@
+Copyright (c) 2025 Devlord the Architect
+
+All rights reserved.
+
+This work is protected under Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
+
+- You may share the concept with credit.
+- You may not remix, distribute modified versions, or use for commercial purposes.
+- The full source code is kept private and is not part of this public repo.
+
+For inquiries, contact: devlord.architect@proton.me
