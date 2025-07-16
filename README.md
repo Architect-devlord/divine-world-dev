@@ -53,11 +53,19 @@ For inquiries or future collaboration (post-2026):
 📧 devlord.thearchitect@gmail.com  
 🔗 github.com/architect-devlord/divine-world-dev
 
-🔒 Note:
-This project is published anonymously and maintained privately.
-The author may go silent, but all rights and authorship remain reserved to:
+🔒 Note:  
+This project was published anonymously as a concept and is maintained privately.  
+The author may go silent, but all rights and authorship remain reserved to:  
 **Devlord the Architect / architect-devlord**
+
+Collaboration requests are welcome, but may not receive an immediate response.
+
+*Silence is not absence. The simulation continues.*
+
+– *Devlord the Architect*
 
 Updated README with feature list and license badge
 
 Added the note 
+
+updated the note
