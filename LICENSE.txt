@@ -8,4 +8,4 @@ This work is protected under Creative Commons Attribution–NonCommercial–NoDe
 - You may not remix, distribute modified versions, or use for commercial purposes.
 - The full source code is kept private and is not part of this public repo.
 
-For inquiries, contact: devlord.architect@proton.me
+For inquiries, contact: devlord.thearchitect@gmail.com
