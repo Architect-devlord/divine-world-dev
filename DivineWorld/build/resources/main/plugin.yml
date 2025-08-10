@@ -1,0 +1,35 @@
+name: DivineWorld
+main: com.divineworld.DivineWorld
+version: 1.0
+author: Devlord the Architect
+description: Divine World - Conscious NPC Civilization Simulation
+api-version: 1.21
+
+commands:
+  divineworld:
+    description: Base command for Divine World debug tools
+    usage: /<command>
+  dwreload:
+    description: Reloads the Divine World plugin
+    usage: /dwreload
+  dwtoggle:
+    description: Toggle debug info for NPCs
+    usage: /dwtoggle
+  dwwipe:
+    description: Wipe NPC mind
+    usage: /dwwipe
+  genesis:
+    description: Start a new Genesis event (civilization birth).
+    usage: /genesis start
+  godmode:
+    description: Toggle god disguise and power.
+    usage: /godmode
+  dw:
+    description: Divine World control commands.
+    usage: /dw <subcommand>
+
+
+permissions:
+  divineworld.admin:
+    description: Allows full control over Divine World NPCs
+    default: op
