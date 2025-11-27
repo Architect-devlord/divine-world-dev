@@ -51,7 +51,7 @@ Independent projects with similar themes, created without access to this code or
 
 For inquiries or future collaboration (post-2026):  
 📧 devlord.thearchitect@gmail.com  
-🔗 github.com/architect-devlord/divine-world-dev
+🔗 github.com/architect-devlord/divine-world-core
 
 🔒 Note:  
 This project was published anonymously as a concept and is maintained privately.  
@@ -66,6 +66,3 @@ Collaboration requests are welcome, but may not receive an immediate response.
 
 Updated README with feature list and license badge
 
-Added the note 
-
-updated the note
