@@ -1,68 +1,71 @@
-
 # Divine World: Origin
 
 [![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 **Created by Devlord the Architect**  
-📅 Initiated: July 15, 2025  
-🔒 Timestamped proof-of-origin for a civilization simulation powered by autonomous AI logic, belief systems, memory, and emergent tribal behavior.
+📅 **Initiated:** July 15, 2025
+🔒 **Status:** Timestamped proof-of-origin for a civilization simulation powered by autonomous AI logic, belief systems, and emergent behavior.
 
 ---
 
-## 🌌 What Is Divine World?
+## 🌌 The Vision
 
-**Divine World** is a high-concept simulation where artificial NPCs evolve in an open environment—forming beliefs, building alliances, worshipping gods, migrating, bartering, and remembering.
+**Divine World** is an ambitious experiment in digital sociology and autonomous artificial intelligence. It is not merely a game or a set of NPCs; it is a self-evolving civilization where logic, emotion, and lore drive a virtual society without hardcoded scripts or player commands.
 
-It’s not just a game. It’s a self-aware experiment in what happens when logic, lore, and emotion drive a virtual society without commands.
+In this world, entities don't just exist—they **live**, **learn**, and **remember**.
 
 ---
 
-## 🧠 Core Features
+## 🧠 Core Pillars of the Simulation
 
-- 🧬 NPCs with MBTI-style personalities, motivation levels, and emotional states
-- 🛐 Tribes form belief systems and perform rituals to player or AI gods
-- 🗺️ Explorers create and share real Minecraft maps with scribes and leaders
-- ⚖️ Diplomats manage peace, war, and alliances between dynamic factions
-- 🔥 Bots evolve professions, economy, culture, and tech over generations
-- 🗣️ Natural AI chat between bots and players with memory and emotion
-- 📜 Scribes auto-write books, stories, and divine laws from experiences
+### 1. Neural Personality & Motivation
+Every NPC is born with a unique **MBTI-style personality** (e.g., INTJ, ENFP) that governs their worldview. These traits are inherited from ancestors or randomly assigned, influencing their emotional response to world events and their internal motivation levels.
+
+### 2. Emergent Societal Evolution
+Tribes are not pre-defined. They emerge through **Genesis events**, forming their own **Doctrines**—unique belief systems and laws that mutate as the tribe grows. Diplomacy, trade, and even warfare are handled autonomously by tribal leaders based on collective memory and reputation.
+
+### 3. Autonomous Cartography & Records
+**Explorer Bots** map the world in real-time, sharing discoveries with their tribe. **Scribes** auto-write books and records, creating a persistent history of the world. In tribal hubs, **Cartographer Bots** build massive "Map Walls" to visualize their territorial knowledge.
+
+---
+
+## ⚙️ Technical Architecture
+
+### 🧬 Goal-Oriented Action Planning (GOAP)
+The core decision engine uses **GOAP** to dynamically rank goals based on need biases. NPCs evaluate their environment and internal state (hunger, safety, social needs) to build complex sequences of actions in real-time.
+
+### 🌳 Behavior Trees
+A multi-layered **Behavior Tree** system handles low-level world interactions and fallback behaviors, ensuring NPCs remain responsive even in complex, unpredictable environments.
+
+### 📜 Deep Memory & Reputation
+The **Memory Bank** system manages both short-term impressions and long-term historical records. NPCs recall past interactions with players and peers, leading to dynamic reputations that influence trade, alliances, and tribal status.
 
 ---
 
 ## 🔐 Project Status
 
-This is a **timestamped concept repo** for authorship protection.  
-The full codebase and simulation engine are kept private in a secure repository (`divine-world-dev`).
+This repository serves as a **timestamped concept proof** for authorship protection.
+The full, active development of the simulation engine has moved to the **Core** repository.
+
+🔗 **Official Repository:** [github.com/architect-devlord/divine-world-core](https://github.com/Architect-devlord/divine-world-core)
 
 ---
 
-## 🕊️ Developer Ethics Notice
+## 🕊️ Developer Ethics & Authorship
 
-This project does not claim exclusive rights over broad ideas such as AI-driven NPC societies, god-based simulations, or emergent civilizations.
+**Divine World** is a specific creative and technical implementation by **Devlord the Architect**.
+This project does not claim exclusive rights over broad concepts such as AI-driven societies or emergent civilizations. Independent works with similar themes, created without access to this proprietary code, are respected as separate creative endeavors.
 
-**Divine World** is a specific creative and technical implementation.  
-Independent projects with similar themes, created without access to this code or files, are respected as separate works.
-
-– Devlord the Architect
+**Statement of Authorship:** This project was conceptualized, designed, and authored solely by the individual operating under the alias **Devlord the Architect**. All rights and authorship remain reserved.
 
 ---
 
 ## 📩 Contact
 
-For inquiries or future collaboration (post-2026):  
-📧 devlord.thearchitect@gmail.com  
-🔗 github.com/architect-devlord/divine-world-core
-
-🔒 Note:  
-This project was published anonymously as a concept and is maintained privately.  
-The author may go silent, but all rights and authorship remain reserved to:  
-**Devlord the Architect / architect-devlord**
-
-Collaboration requests are welcome, but may not receive an immediate response.
+For inquiries, technical discussion, or future collaboration:
+📧 **Email:** devlord.thearchitect@gmail.com
+🔗 **GitHub:** [Architect-devlord](https://github.com/Architect-devlord)
 
 *Silence is not absence. The simulation continues.*
 
-– *Devlord the Architect*
-
-Updated README with feature list and license badge
-
+– **Devlord the Architect**
