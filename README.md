@@ -67,7 +67,7 @@ For inquiries or future collaboration (post-2026):
 🔒 Note:  
 - This project was published anonymously as a concept and is maintained privately.  
   The author may go silent, but all rights and authorship remain reserved to:
-- The DivineWorld folder inside this repo (.DivineWorld/) is an outdated version that was created during the creation of the project it captures the
+- The **[DivineWorld folder](.DivineWorld/)** inside this repo is an outdated version that was created during the creation of the project it captures the
   original idea of creating the entire thing before it became so large and is kept as a memento 
 **Devlord the Architect / architect-devlord**
 
