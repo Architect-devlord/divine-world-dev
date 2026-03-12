@@ -74,6 +74,3 @@ Collaboration requests are welcome, but may not receive an immediate response.
 *Silence is not absence. The simulation continues.*
 
 – *Devlord the Architect*
-
-Updated README with feature list and license badge
-
