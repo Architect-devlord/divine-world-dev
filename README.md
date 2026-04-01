@@ -1,8 +1,6 @@
 
 # Divine World: Origin
 
-[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
 **Created by Devlord the Architect**  
 📅 Initiated: July 15, 2025  
 🔒 Timestamped proof-of-origin for a civilization simulation powered by autonomous AI agents, emergent language, genetic inheritance, persistent memory, and multi-generational cultural evolution.
