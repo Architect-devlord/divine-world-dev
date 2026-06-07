@@ -45,7 +45,7 @@ The full codebase and simulation engine are kept in a divine-world-core repo .
 
 ---
 
-## 🕊️ Developer Ethics Notice
+## Developer Ethics Notice
 
 This project does not claim exclusive rights over broad ideas such as AI-driven NPC societies, god-based simulations, or emergent civilizations.
 
